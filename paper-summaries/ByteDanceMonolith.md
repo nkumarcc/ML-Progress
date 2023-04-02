@@ -30,3 +30,13 @@ Online Training:
 - Collisionless hash table + dynamic feature eviction
 - Loop serving feedback to training in real-time w/ online training
 
+### Performance Metric
+
+Online serving AUC - Performance of real-time recommendation system. Measures accuracy in making recommendations to users while system is in production and serving live traffic. AUC is "Area Under Curve", measuring area under curve plotting true positive rate vs false positive rate.
+
+### Design
+
+- Worker-Parameter Server arch, workers access param servers for weights
+- Custom trained HashTable alternative to a trained TF Variable based embedding. The HashTable is based on the Cuckoo Hashmap, and additionally filters adding IDs based on incoming frequency and evicts IDs based on usage.
+- Online Training: optimize by updating sparse parameters more frequently (they're also more relevant to recommendations). This optimizes for bandwidth usage and memory
+- Fault Tolerance: 1 Day snapshots of PS captured, works well enough for them
