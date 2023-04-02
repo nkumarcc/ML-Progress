@@ -28,6 +28,7 @@ RL
 Misc:
 - [AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
 - [High Fidelity Neural Audio Compression](https://arxiv.org/abs/2210.13438)
+- [ByteDance Monolith](https://arxiv.org/pdf/2209.07663.pdf)
 
 ### Implemented Projects
 
