@@ -24,6 +24,7 @@ LLMs
 - To read:
   - [ToxiGen](https://arxiv.org/abs/2203.09509?ref=blog.mithrilsecurity.io)
   - [Inside Transformers](https://transformer-circuits.pub/2021/framework/index.html)
+  - [LLaMa-2](https://medium.com/towards-generative-ai/understanding-llama-2-architecture-its-ginormous-impact-on-genai-e278cb81bd5c)
 
 RL
 
