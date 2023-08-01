@@ -21,6 +21,9 @@ LLMs
 - GPT 1, 2, and 3
 - [BERT](https://arxiv.org/abs/1810.04805) and [BART](https://arxiv.org/abs/1910.13461)
 - [ROME](https://rome.baulab.info/?ref=blog.mithrilsecurity.io)
+- To read:
+  - [ToxiGen](https://arxiv.org/abs/2203.09509?ref=blog.mithrilsecurity.io)
+  - [Inside Transformers](https://transformer-circuits.pub/2021/framework/index.html)
 
 RL
 
