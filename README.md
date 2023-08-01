@@ -20,6 +20,7 @@ LLMs
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 - GPT 1, 2, and 3
 - [BERT](https://arxiv.org/abs/1810.04805) and [BART](https://arxiv.org/abs/1910.13461)
+- [ROME](https://rome.baulab.info/?ref=blog.mithrilsecurity.io)
 
 RL
 
