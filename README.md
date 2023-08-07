@@ -10,8 +10,9 @@ Andrew Ng DL Specialization:
 
 In Progress:
 
-- Sequence Models - Read enough papers about RNN + LLM history, don't think I'm going to do this one.
+- Sequence Models Andrew Ng Course - Read enough papers about RNN + LLM history, don't think I'm going to do this one.
 - https://github.com/jacobhilton/deep_learning_curriculum/tree/master
+- https://projecteuler.net/
 
 ### Papers Read
 
