@@ -6,10 +6,12 @@ Andrew Ng DL Specialization:
 - Neural Networks and Deep Learning
 - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization
 - Structuring Machine Learning Projects
+- - Convolutional Neural Networks
 
 In Progress:
-- Convolutional Neural Networks
-- Sequence Models
+
+- Sequence Models - Read enough papers about RNN + LLM history, don't think I'm going to do this one.
+- https://github.com/jacobhilton/deep_learning_curriculum/tree/master
 
 ### Papers Read
 
