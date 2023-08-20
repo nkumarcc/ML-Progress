@@ -29,6 +29,7 @@ LLMs
   - [ToxiGen](https://arxiv.org/abs/2203.09509?ref=blog.mithrilsecurity.io)
   - [Inside Transformers](https://transformer-circuits.pub/2021/framework/index.html)
   - [LLaMa-2](https://medium.com/towards-generative-ai/understanding-llama-2-architecture-its-ginormous-impact-on-genai-e278cb81bd5c)
+- [Dolma release post](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64)
 
 RL
 
@@ -43,7 +44,7 @@ Misc:
 
 - [Attention is All You Need - building a transformer from scratch:](https://github.com/nkumarcc/tf-attention-is-all-you-need)
   - **Incomplete:** Ran into issues when building masking in the Decoder layer from scratch.
-  - **Lessons learned:**
+  - **Lessons learned:** Read the README in the repo. A lot of lessons learned.
 - [2048 NN, using a version of n-tuple learning generalized to a neural network](https://github.com/nkumarcc/2048-NN):
   - **Incomplete**
   - **Method:** 1-ply n-tuple learning, where instead of using pure n-tuple learning as described in the [N-Tuples w/ 2048](http://www.cs.put.poznan.pl/wjaskowski/pub/papers/Szubert2014_2048.pdf) paper, used convolution layers to represent n-tuples and used a neural network. Based the network
