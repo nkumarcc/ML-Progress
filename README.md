@@ -1,5 +1,20 @@
 # Github ML Resume
 
+### To Read
+
+Articles
+- https://www.inverse.com/health/best-health-breakthrough-2023-gene-editing-crispr?utm_source=tldrnewsletter
+
+Papers
+- Stable Diffusion - Lmfao ResearchGPT really gave some terrible suggestions
+  - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)
+  - [Asymptotic Exponential Stability for Diffusion Processes Driven by Stochastic Differential Equations in Duals of Nuclear Spaces](https://ems.press/content/serial-article-files/2648)
+  - [Double diffusive convection in a horizontal sparcely packed porous layer](https://www.sciencedirect.com/science/article/abs/pii/0735193386900357?via%3Dihub)
+  - [Stability of traveling wavefronts for time-delayed reaction-diffusion equations](https://www.aimsciences.org/article/doi/10.3934/proc.2009.2009.526)
+  - [Choices and pitfalls concerning mixture-of-experts modeling](https://www.scielo.br/j/pope/a/b8kfZkrkhG6ndHwLHDn4DjS/?lang=en)
+  - [Mixed Methods Research: A Research Paradigm Whose Time Has Come](https://journals.sagepub.com/doi/10.3102/0013189X033007014)
+  - [Investigation of Mixture of Experts Applied to Residential Premises Valuation](https://link.springer.com/chapter/10.1007/978-3-642-36543-0_24)
+
 ### Courses Taken
 
 Andrew Ng DL Specialization:
