@@ -15,6 +15,9 @@ Papers
   - [Mixed Methods Research: A Research Paradigm Whose Time Has Come](https://journals.sagepub.com/doi/10.3102/0013189X033007014)
   - [Investigation of Mixture of Experts Applied to Residential Premises Valuation](https://link.springer.com/chapter/10.1007/978-3-642-36543-0_24)
 
+Repos
+- [LLMs and Kernels](https://charlesfrye.github.io/programming/2023/11/10/llms-systems.html)
+
 ### Courses Taken
 
 Andrew Ng DL Specialization:
